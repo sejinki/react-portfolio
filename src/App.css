@@ -1,0 +1,29 @@
+
+ul{
+  list-style: none;
+  display:flex;
+  width:100%;
+  justify-content: center;
+}
+
+.nav-item a{
+  color:white;
+  padding: 50px;
+}
+
+.nav-link {
+  padding: 40px;
+  padding-top: 18px;
+  padding-bottom: 16px;
+
+}
+
+iframe {
+  height: 80%;
+  width: 80%;
+}
+
+#resume{
+  width:100vw;
+  height: 100vh;
+}
