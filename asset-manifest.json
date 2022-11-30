@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0c6572a.css",
+    "main.js": "/static/js/main.9d779db9.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/pic.jpeg": "/static/media/pic.fc11cbe1efa0177bf1cc.jpeg",
+    "static/media/natlParks.png": "/static/media/natlParks.448e3fec8641e39027ce.png",
+    "index.html": "/index.html",
+    "main.e0c6572a.css.map": "/static/css/main.e0c6572a.css.map",
+    "main.9d779db9.js.map": "/static/js/main.9d779db9.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c6572a.css",
+    "static/js/main.9d779db9.js"
+  ]
+}
