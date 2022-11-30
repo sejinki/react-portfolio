@@ -14,6 +14,20 @@ code {
 }
 
 
-tabBarStyle {
+.tabBarStyle {
   height: 150,
+}
+
+
+footer div{
+  display: flex;
+  justify-content: space-between;
+}
+
+footer div p a{
+  color:black
+}
+
+footer div p a:hover{
+color:black
 }

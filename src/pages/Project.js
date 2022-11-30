@@ -1,4 +1,5 @@
 import React from 'react';
+import nationalParks from '../screenshot/natlParks.png'
 
 export default function Project() {
   return (
@@ -9,7 +10,7 @@ export default function Project() {
       </p>
      
       <div className="card" style={{width: "18rem"}}>
-        <img src={process.env.PUBLIC_URL+"/screenshot/natlParks.png"}className="card-img-top" alt="national parks"at/>
+        <img src={nationalParks}className="card-img-top" alt="national parks"at/>
           <div className="card-body">
             <h5 className="card-title">Utah's National Parks</h5>
             <p className="card-text">Users can obtain all the activities within a park along with the current weather.</p>
